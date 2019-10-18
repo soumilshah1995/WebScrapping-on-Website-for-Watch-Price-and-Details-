@@ -1,5 +1,12 @@
-# WebScrapping on Watch Website for Description and Pric etc 
+# WebScrapping on Watch Website for Description and Pric etc
+### I have developed a smart script using state of art design pattern and meta class and databases and with logging this scripts scrape all product details and price and saves everything in a sqlite3 database 
+
+
 <img width="1311" alt="Screen Shot 2019-10-16 at 9 50 25 PM" src="https://user-images.githubusercontent.com/39345855/66971387-04869900-f05f-11e9-8882-319c23ab7bc6.png">
+
+
+
+<img width="1138" alt="Screen Shot 2019-10-18 at 10 31 19 AM" src="https://user-images.githubusercontent.com/39345855/67103043-74e20700-f192-11e9-8aec-b3fbb7772ed1.png">
 
 
 * I have Used Design Pattern Singleton and Facade how to use this example is given in code please read 
