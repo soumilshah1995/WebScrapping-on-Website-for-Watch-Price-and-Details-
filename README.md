@@ -1,5 +1,6 @@
 # WebScrapping on Watch Website for Description and Pric etc
-### I have developed a smart script using state of art design pattern and meta class and databases and with logging this scripts scrape all product details and price and saves everything in a sqlite3 database 
+
+* I have developed a Smart WebScrapper  script using state of art Design Pattern,Meta class and database.This scripts scrape all product details and price and saves everything in a sqlite3 database 
 
 
 <img width="1311" alt="Screen Shot 2019-10-16 at 9 50 25 PM" src="https://user-images.githubusercontent.com/39345855/66971387-04869900-f05f-11e9-8882-319c23ab7bc6.png">
